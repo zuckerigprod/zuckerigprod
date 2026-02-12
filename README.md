@@ -21,87 +21,49 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%" style="padding: 0 15px;">
+<div align="center">
 
-<h3 align="center">🎨 Frontend</h3>
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&perline=4" alt="Frontend skills"/>
-  </a>
-</p>
+<h3>🎨 Frontend</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&perline=7" alt="Frontend skills"/>
+</a>
 
-</td>
-<td width="2%"></td>
-<td valign="top" width="31%" style="padding: 0 15px;">
+<br/><br/>
 
-<h3 align="center">⚙️ Backend</h3>
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,nodejs,dotnet&perline=2" alt="Backend skills"/>
-  </a>
-</p>
+<h3>⚙️ Backend & Languages</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cs,nodejs,dotnet&perline=7" alt="Backend skills"/>
+</a>
 
-</td>
-<td width="2%"></td>
-<td valign="top" width="31%" style="padding: 0 15px;">
+<br/><br/>
 
-<h3 align="center">📱 Mobile</h3>
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart&perline=2" alt="Mobile skills"/>
-  </a>
-</p>
+<h3>📱 Mobile</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=7" alt="Mobile skills"/>
+</a>
 
-</td>
-</tr>
-</table>
+<br/><br/>
 
-<br/>
+<h3>🗄️ Databases</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=7" alt="Database skills"/>
+</a>
 
-<table>
-<tr>
-<td valign="top" width="33%" style="padding: 0 15px;">
+<br/><br/>
 
-<h3 align="center">🗄️ Databases</h3>
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=3" alt="Database skills"/>
-  </a>
-</p>
+<h3>🔧 DevOps & Tools</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&perline=7" alt="DevOps skills"/>
+</a>
 
-</td>
-<td width="2%"></td>
-<td valign="top" width="31%" style="padding: 0 15px;">
+<br/><br/>
 
-<h3 align="center">🔧 DevOps & Tools</h3>
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&perline=2" alt="DevOps skills"/>
-  </a>
-</p>
+<h3>🤖 AI & Other</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,bash,nginx&perline=7" alt="AI and other skills"/>
+</a>
 
-</td>
-<td width="2%"></td>
-<td valign="top" width="31%" style="padding: 0 15px;">
-
-<h3 align="center">🤖 AI & Other</h3>
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,bash,nginx&perline=2" alt="AI and other skills"/>
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://raw.githubusercontent.com/zuckerigprod/zuckerigprod/main/divider.gif" width="100%"/>
 
