@@ -25,14 +25,14 @@
 
 <h3>🎨 Frontend</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&perline=7" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,redux,html,css,tailwind,bootstrap&perline=7" alt="Frontend skills"/>
 </a>
 
 <br/><br/>
 
 <h3>⚙️ Backend & Languages</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cs,nodejs,dotnet&perline=7" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=python,cs,nodejs,dotnet,php,laravel,fastapi&perline=7" alt="Backend skills"/>
 </a>
 
 <br/><br/>
@@ -46,14 +46,14 @@
 
 <h3>🗄️ Databases</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=7" alt="Database skills"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&perline=7" alt="Database skills"/>
 </a>
 
 <br/><br/>
 
 <h3>🔧 DevOps & Tools</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&perline=7" alt="DevOps skills"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,postman,figma&perline=7" alt="DevOps skills"/>
 </a>
 
 <br/><br/>
