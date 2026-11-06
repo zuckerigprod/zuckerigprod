@@ -41,13 +41,9 @@ Most of my work is commercial and lives in private repositories. What you see he
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,dotnet&perline=12" />
 
-React Native · Flutter · WPF · Avalonia
-
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite,prisma&perline=12" />
-
-PostgreSQL · MS SQL Server · MySQL · Redis · Prisma · SQLAlchemy · EF Core
 
 **Infrastructure**
 
